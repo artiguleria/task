@@ -1,0 +1,3 @@
+{}
+
+// .watchmanconfig: Watchman is a service that watches the files in our project to trigger a rebuild ...

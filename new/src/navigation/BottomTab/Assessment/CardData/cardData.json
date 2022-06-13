@@ -1,0 +1,33 @@
+[
+    {
+      "id": 0,
+      "title": "About",
+      "heading": "Nutritional Supplements",
+      "description": "Supplementation helps reduce physical and emotional complaints while rebuilding the mind and body's ability to handle work and life stress. Nutritional supplementation is extremely effective in improving resiliency, reducing burnout and maximizing quality-of-life.",
+      "back_description": "Nutritional supplementation is extremely effective in improving resiliency. They help the mind and body rebuild from years of being overly stressed.",
+      "classes": "col-md-4",
+      "card_class_front": "card__face card__face--front about-card nutritional",
+      "card_class_back": "card__face about-card nutritional"
+    },
+    {
+      "id": 1,
+      "title": "About",
+      "heading": "Lifestyle Changes",
+      "description": "New habits will help reduce the burden on your mind and body. Positive lifestyle and habit changes can dramatically improve your health and emotional outlook. Proper diet, exercise and sleep are proven methods to maximize your quality-of-life.",
+      "back_description": "Positive lifestyle and habit changes can dramatically improve your health and emotional outlook. Proper diet, exercise and sleep are proven methods to maximize your quality-of-life.",
+      "classes": "col-md-4 mt-5 mt-lg-0",
+      "card_class_front": "card__face card__face--front about-card lifestyle",
+      "card_class_back": "card__face about-card lifestyle"
+    },
+    {
+      "id": 2,
+      "title": "About",
+      "heading": "Mindfulness Training",
+      "description": "Focusing your mind and body will promote a sense of calm and health. Mindfulness training teaches you to slow down racing thoughts, let go of negativity, and calm both your mind and body.",
+      "back_description": "Mindfulness training teaches you to slow down racing thoughts, let go of negativity, and calm both your mind and body.",
+      "classes": "col-md-4 mt-5 mt-lg-0",
+      "card_class_front": "card__face card__face--front about-card mindfulness",
+      "card_class_back": "card__face about-card mindfulness"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="22px" height="41px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 22 41"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#666666}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="2618.09" y="-743.52" width="1366.05" height="768.02"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1936758979712">
+   <g>
+    <path class="fil0" d="M20.58 19.98l-17.13 -17.08c-0.56,-0.56 -1.47,-0.56 -2.03,0 -0.56,0.56 -0.56,1.47 0,2.03l16.11 16.07 -16.11 16.07c-0.56,0.56 -0.56,1.47 0,2.03 0.28,0.28 0.65,0.42 1.01,0.42 0.37,0 0.74,-0.14 1.02,-0.42l17.13 -17.08c0.27,-0.27 0.42,-0.64 0.42,-1.02 0,-0.38 -0.15,-0.75 -0.42,-1.02z"/>
+   </g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <image x="2618.09" y="-743.52" width="1366.05" height="768.03" xlink:href="next34_Images\next34_ImgID1.png"/>
+  </g>
+ </g>
+</svg>
